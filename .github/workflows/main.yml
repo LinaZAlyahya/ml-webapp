@@ -5,7 +5,7 @@ on:
 
 env:
   AZURE_RESOURCE_GROUP : test-acr-rg-guest4
-  AZURE_ACR_NAME : pbkregistrypbk-guest4
+  AZURE_ACR_NAME : pbkregistrypbkguest4
 
 jobs:
   azuread:
